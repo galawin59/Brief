@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T15:55:27.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="AJ-O9O0juQ7D2Sc_e1Ix" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T16:03:44.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="zM0TxO7T4jSsEJKtwJLA" version="22.1.3" type="github">
   <diagram name="Page-1" id="kPUvN9GjsmARtYSSQU7i">
-    <mxGraphModel dx="2049" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="6600" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="8600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,24 @@
         </mxCell>
         <mxCell id="C6v-fsJboWqxhK3RXxR4-83" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Pourcentage en dessous de la cible&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="319" y="5080" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C6v-fsJboWqxhK3RXxR4-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Page historique du patient 2 &lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="5340" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6v-fsJboWqxhK3RXxR4-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Graphique quotidien avec les taux de sucre dans le sang par rapport au temps , possibilité de l&#39;afficher à la semaine et au mois&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="242" y="5500" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="C6v-fsJboWqxhK3RXxR4-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Jour precedent&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="5920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6v-fsJboWqxhK3RXxR4-87" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Jour suivant &lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="5920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6v-fsJboWqxhK3RXxR4-88" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Sauvegarder l&#39;historique&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="6060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6v-fsJboWqxhK3RXxR4-90" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Envoyer message&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="6060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
