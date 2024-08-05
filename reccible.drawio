@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="-a0-zAkRaLJkd7rUqVzm">
-    <mxGraphModel dx="2037" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
           <mxGeometry x="2010" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Lnr_tMbdvoqLlXHLRUx-15" value="Super Suivi Issaka" style="whiteSpace=wrap;html=1;rounded=1;arcSize=33;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="2530" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Lnr_tMbdvoqLlXHLRUx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Lnr_tMbdvoqLlXHLRUx-17">
           <mxGeometry relative="1" as="geometry">
@@ -449,14 +449,11 @@
         <mxCell id="8Lnr_tMbdvoqLlXHLRUx-17" value="+30 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="1485" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8Lnr_tMbdvoqLlXHLRUx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="8Lnr_tMbdvoqLlXHLRUx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Lnr_tMbdvoqLlXHLRUx-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1730" y="1490" as="targetPoint" />
             <mxPoint x="1610" y="1490" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8Lnr_tMbdvoqLlXHLRUx-19" value="+5 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1480" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Lnr_tMbdvoqLlXHLRUx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Lnr_tMbdvoqLlXHLRUx-22">
           <mxGeometry relative="1" as="geometry">
@@ -645,6 +642,9 @@
         </mxCell>
         <mxCell id="8Lnr_tMbdvoqLlXHLRUx-75" value="+5 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2950" y="1490" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8Lnr_tMbdvoqLlXHLRUx-19" value="+5 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1480" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
